@@ -1,6 +1,6 @@
 <h1>Hi, I'm Juan Toro! 👋 👨‍💻</h1>
 <h3>I am a mid-level software developer from Puerto Rico. <h3>
-<h3>I am passionate about crafting high-quality software, proactive in my approach to learning and improvement, and deeply interested in staying abreast of industry advancements. I am driven by a desire to create impactful and efficient solutions that push the boundaries of what is possible in the field of software development.</h3>
+<h3>I am passionate about crafting high-quality software, proactive in my approach to learning and improvement, and deeply interested in staying abreast of industry advancements. I am driven by a desire to create impactful and efficient solutions that push the boundaries of what is possible in the software development field.</h3>
 
 <h3>Here are some details about me:</h3>
   

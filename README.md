@@ -6,7 +6,7 @@
   
 - 🚀 Currently working in the **aerospace industry**.
   
-- 💼 I would love to collaborate on the **insurance industry.**
+- 💼 I would love to collaborate in the **insurance and ecommerce industry.**
   
 - 💡 I'm interested in learning **UI/UX design**, **back-end development** and **mobile development**.
 

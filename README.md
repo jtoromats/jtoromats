@@ -8,7 +8,7 @@
   
 - 💼 I would love to collaborate in the **insurance and ecommerce industry.**
   
-- 💡 I'm interested in learning **UI/UX design**, **back-end development** and **mobile development**.
+- 💡 I'm interested in learning **UI/UX design**, **back-end** and **mobile development**.
 
 - 📫 You can reach me at **jtoro.mats@gmail.com**
   

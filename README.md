@@ -4,15 +4,15 @@
 
 <h3>Here are some details about me:</h3>
   
-- 🚀 Currently working in the **aerospace industry**.
+- 🚀 Currently working in the **space technology industry**.
   
-- 💼 I would love to collaborate in the **insurance and ecommerce industry.**
+- 💼 I would love to collaborate in the **insurance or ecommerce industry.**
   
 - 💡 I'm interested in learning **UI/UX design**, **back-end** and **mobile development**.
 
 - 📫 You can reach me at **jtoro.mats@gmail.com**
   
-- ☕️ Here's a fact about me: **I love decaf coffe!**
+- ☕️ Here's a fact about me: **I love decaf coffee!**
 
 <br />
   
